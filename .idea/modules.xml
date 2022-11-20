@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/Business.iml" filepath="$PROJECT_DIR$/Business/Business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAccess/DataAccess.iml" filepath="$PROJECT_DIR$/DataAccess/DataAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entities/Entities.iml" filepath="$PROJECT_DIR$/Entities/Entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaStore.iml" filepath="$PROJECT_DIR$/PatikaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities/Utilities.iml" filepath="$PROJECT_DIR$/Utilities/Utilities.iml" />
+    </modules>
+  </component>
+</project>
