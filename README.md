@@ -1,5 +1,4 @@
 
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Patika Store.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Patika_Store_0"></a>Patika Store</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Bu proje Kağan Berke ebebek Java &amp; QA &amp; SAP Spartacus Practicum için hazırlanmış final projesidir. Katmanlı mimariyle oluşturulmuş ve SOLID prensiplerine uygun davranılmıştır.</p>
 <hr>
